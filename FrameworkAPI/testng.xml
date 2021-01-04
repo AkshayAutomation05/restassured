@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="restassuredsuite">
+
+<listeners>
+	<listener class-name="com.api.utilities.ListenersUtil" />
+</listeners>
+<test name="restassuredtestcases">
+<classes>
+<class name="com.api.testcases.TC001_GetEmployeeData"/>
+<class name="com.api.testcases.TC002_GetSingleEmployeeData"/>
+</classes>
+</test>
+</suite>

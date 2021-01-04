@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2460" started-at="2021-01-04T18:04:01 IST" finished-at="2021-01-04T18:04:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2460" started-at="2021-01-04T18:04:01 IST" finished-at="2021-01-04T18:04:03 IST">
+      <class name="com.api.testcases.TC001_GetEmployeeData">
+        <test-method status="PASS" signature="getEmployeeData()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="getEmployeeData" is-config="true" duration-ms="2311" started-at="2021-01-04T18:04:01 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeData -->
+        <test-method status="PASS" signature="checkContentEncoding()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkContentEncoding" duration-ms="20" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method status="PASS" signature="checkContentLength()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkContentLength" duration-ms="0" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentLength -->
+        <test-method status="PASS" signature="checkContentType()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkContentType" duration-ms="0" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentType -->
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkResponseBody" duration-ms="38" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method status="PASS" signature="checkServerType()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkServerType" duration-ms="0" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServerType -->
+        <test-method status="PASS" signature="checkresponseStatus()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkresponseStatus" duration-ms="16" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponseStatus -->
+        <test-method status="PASS" signature="checkStatusLine()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkStatusLine" duration-ms="0" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method status="PASS" signature="checkresponseTime()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="checkresponseTime" duration-ms="0" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresponseTime -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.api.testcases.TC001_GetEmployeeData@55b699ef]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-01-04T18:04:03 IST" finished-at="2021-01-04T18:04:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.api.testcases.TC001_GetEmployeeData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
